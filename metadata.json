@@ -1,0 +1,5 @@
+{
+  "name": "Todo List",
+  "description": "A streamlined Todo List application featuring task prioritization, deadlines, and Gemini-powered productivity tips.",
+  "requestFramePermissions": []
+}
